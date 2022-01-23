@@ -12,5 +12,5 @@ Original file is located at
 K = int(input())
 a, b = 1, 0
 for i in range(K):
-    a, b = b, a+b    
+    a, b = b, a+b   
 print(a, b, sep=' ')
